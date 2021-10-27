@@ -2,7 +2,7 @@
 
 Author: KangLin(kl222@126.com)
 
-### [Home:https://github.com/KangLin/windows_right_menu](https://github.com/KangLin/windows_right_menu)
+### [Home](https://github.com/KangLin/windows_right_menu):https://github.com/KangLin/windows_right_menu
 
 ### [Detailed introduction](http://blog.csdn.net/kl222/article/details/7821322)
 
